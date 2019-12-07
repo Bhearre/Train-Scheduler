@@ -1,0 +1,51 @@
+body {
+    background-image: url("../images/pattern-1084046_1920.jpg");
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-family: 'Calistoga', cursive;
+    font-size: 120px;
+    text-shadow: -1.8px -1.8px 0 white, 1.8px -1.8px 0 white, -1.8px 1.8px 0 white, 1.8px 1.8px 0 white;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: darkgreen;
+    padding: 15px 0;
+    margin-bottom: 10px;
+}
+
+.card-header {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: darkgreen;
+}
+
+h2 {
+    font-family: 'Calistoga', cursive;
+    color: red;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+}
+
+th {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.card {
+    border-color: darkgreen;
+}
+
+.btn {
+    color: red;
+    border-color: red;
+    background-color: white;
+}
+
+.btn:hover {
+    color: white;
+    background-color: red;
+    border-color: red;
+}
